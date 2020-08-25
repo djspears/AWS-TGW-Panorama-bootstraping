@@ -7,7 +7,7 @@ variable aws_region {
 
 variable aws_key {
   description = "aws_key"
-  default     = "AWS-Ohio-Key"
+  default     = "AWS-Key"
 }
 
 //Do not create these.  The Terraform will do that.  Just need to make secure
