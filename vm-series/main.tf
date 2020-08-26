@@ -29,7 +29,7 @@ variable instance_type {
 }
 
 variable ngfw_license_type {
-  default = "payg2"
+  default = "byol"
 }
 
 variable ngfw_version {
